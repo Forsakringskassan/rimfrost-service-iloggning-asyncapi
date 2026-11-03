@@ -1,3 +1,17 @@
+## 0.2.0 (2026-11-03)
+
+### Features
+
+-  lägg till id och visadInformation i informationsaccess-eventet (FKPOC-1103) ([3afb0](https://github.com/Forsakringskassan/rimfrost-service-informationsaccess-asyncapi/commit/3afb09b58285a76) julolsso)  
+
+### Bug Fixes
+
+-  ta bort individer ur eventet eftersom personuppgifterna finns i visadInformation (FKPOC-1103) ([a6156](https://github.com/Forsakringskassan/rimfrost-service-informationsaccess-asyncapi/commit/a6156ef5115a8b5) julolsso)  
+-  ta bort individer ur regelexemplet och förtydliga kravtexten (FKPOC-1103) ([94af4](https://github.com/Forsakringskassan/rimfrost-service-informationsaccess-asyncapi/commit/94af4e84bd1f836) julolsso)  
+
+### Other changes
+
+
 ## 0.1.0 (2026-10-27)
 
 ### Features
